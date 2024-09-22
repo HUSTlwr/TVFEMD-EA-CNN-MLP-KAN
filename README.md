@@ -1,1 +1,1 @@
-Pytorch implementation of TVFEMD-EA-CNN-MLP(LSTM or GRU)-KAN, which is helpful to further understand papers (Multilayer Perceptron Integrated with Kolmogorov-Arnold Network for pre-dicting water level in Gezhouba Sanjiang downstream approach channel).
+Pytorch implementation of TVFEMD-EA-CNN-MLP(LSTM or GRU)-KAN, which is helpful to further understand paper (Multilayer Perceptron Integrated with Kolmogorov-Arnold Network for pre-dicting water level in Gezhouba Sanjiang downstream approach channel).
